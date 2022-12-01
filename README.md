@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-
 # NeuroSolver
+
+### Data extracted from:
 
 https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
 
@@ -79,5 +79,3 @@ python -m flask run --without-threads
 ## License
 
 # [MIT](https://choosealicense.com/licenses/mit/)
-
-> > > > > > > b0e97cfbad87aed0ef2e4ac5aafda85214e98414
