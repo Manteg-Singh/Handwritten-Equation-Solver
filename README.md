@@ -67,8 +67,8 @@ python -m flask run --without-threads
 
 -   TensorFlow / Keras
 -   Python / Flask
--   OpenCv
 -   P5.js
+-   OpenCv
 
 ## Authors
 
