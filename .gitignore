@@ -1,6 +1,7 @@
 datasets/*
 venv/
 model/train_data.csv
+data.rar/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
