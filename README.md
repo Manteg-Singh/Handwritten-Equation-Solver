@@ -10,7 +10,7 @@ A WebApp for Solve Handwritten Equations using Convolutional Neural Networks
 
 It works with any digit from 0-9 and the symbols +,-,x
 
-> White blackground and black digits are necessary
+> White background and black digits are necessary
 
 ![Digit Recognition](./demo.gif)
 
